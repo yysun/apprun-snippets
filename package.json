@@ -1,0 +1,21 @@
+{
+    "name": "apprun-snippets",
+    "displayName": "AppRun Snippets",
+    "description": "This extension contains code snippets for developing applications using AppRun.",
+    "version": "0.0.1",
+    "publisher": "yysun",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
