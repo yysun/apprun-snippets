@@ -3,7 +3,7 @@
     "displayName": "AppRun Snippets",
     "description": "This extension contains code snippets for developing applications using AppRun.",
     "version": "0.0.1",
-    "publisher": "yysun",
+    "publisher": "yiyisun",
     "engines": {
         "vscode": "^1.21.0"
     },
