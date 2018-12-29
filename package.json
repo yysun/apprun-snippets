@@ -17,5 +17,9 @@
                 "path": "./snippets/snippets.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yysun/apprun-snippets.git"
     }
 }
